@@ -1,1 +1,2 @@
+String driverClass = "oracle.jdbc.driver.OracleDriver";
 hello world
