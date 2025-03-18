@@ -1,3 +1,4 @@
+out.close();
 ps.close();
 String password = props.getProperty("db.password");
 out = new BufferedWriter(new FileWriter(”filename”, true));
