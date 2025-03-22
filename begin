@@ -1,5 +1,7 @@
 } finally {
 
+} finally {
+
 } catch (IOException e) {
 con=DriverManager.getConnection(url, userName, password);
 out.close();
