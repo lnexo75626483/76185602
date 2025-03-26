@@ -1,3 +1,4 @@
+BufferedWriter out = null;
 out.write(”aString”);
 Properties props = new Properties();
 } finally {
