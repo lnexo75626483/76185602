@@ -1,3 +1,4 @@
+props.load(fs);
 out.write(”aString”);
 BufferedWriter out = null;
 out.write(”aString”);
